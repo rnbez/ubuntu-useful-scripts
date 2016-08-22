@@ -12,3 +12,5 @@ apm install emmet
 apm install emmet-snippets-compatibility
 
 apm install sublime-style-column-selection
+
+apm install language-docker
